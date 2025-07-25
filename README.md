@@ -22,3 +22,5 @@ I'm Lara.
 - 🔭 I'm looking for help with my doctoral degree. 😄
 
 Feel free to get in touch if you have something for me! 
+
+Previously I was also there: [https://github.com/mir7b] 
