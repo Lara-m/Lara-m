@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Lara.
+
+- 😻 I like reinforcement learning, artificial neural networks, and cute helpful robots! 🤖
+- 👯 I’m looking to collaborate on just about anything inspiring and constructive. 🌱
+- 🔭 I'm looking for help with my doctoral degree. 😄
+
+Feel free to get in touch if you have something for me! 
